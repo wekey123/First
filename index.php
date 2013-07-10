@@ -8,4 +8,6 @@
  echo "hello1";
  echo "world2";
  echo "git";
+ 
+ print_r('test data');
 ?>
