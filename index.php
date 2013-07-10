@@ -10,4 +10,5 @@
  echo "git";
  
  print_r('test data');
+echo "footer";
 ?>
